@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Ananya Sharma 👋
 
-<!--
-**Ananya3017/Ananya3017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | Java | Spring Boot
 
-Here are some ideas to get you started:
+I enjoy building backend systems and solving real-world problems using Java and Spring Boot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Java
+- Spring Boot
+- MySQL
+- REST APIs
+- Git & GitHub
+- Postman
+
+## Projects
+
+### URL Shortener
+A backend service that converts long URLs into short links using Base62 encoding.
+
+Tech:
+Java, Spring Boot, MySQL
+
+Features:
+- Short URL generation
+- Redirection support
+- REST APIs
+- Database persistence
+
+## Currently Learning
+- Spring Security
+- Hibernate/JPA
+- System Design
+- Backend Optimization
